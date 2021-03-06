@@ -1,6 +1,6 @@
 TO USE`
 
-1. git clone https://github.com/Grisha1997-laravel/vuetask.git
+1. git clone https://github.com/hayk98-hayrapetyan/vue-3-Vite-Tailwind.css.git
 
 2. npm install
 
